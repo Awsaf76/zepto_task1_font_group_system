@@ -18,17 +18,16 @@ A dynamic web application that allows users to:
 ✅ Dynamically manage font groups  
 ✅ Single-page application interface  
 ✅ Follows Single Responsibility Principle (SRP)  
-✅ Styled using Tailwind CSS  
 ✅ Built with Core PHP and jQuery
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **Frontend**: jQuery, Tailwind CSS
+- **Frontend**: JavaScript (jQuery), HTML/CSS (No framework used)
 - **Backend**: Core PHP
-- **AJAX**: For dynamic interactivity
-- **Session**: Used for temporary storage of font groups
+- **AJAX**: For seamless interactivity
+- **Session Storage**: Used to manage font groups temporarily
 
 ---
 
